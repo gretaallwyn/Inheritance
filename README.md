@@ -1,4 +1,5 @@
 # Inheritance   
 This is for testing purpose
-hope this is fine
+Hope this is fine   
+How is this one
 
